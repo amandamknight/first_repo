@@ -1,5 +1,5 @@
 # first_repo
-Practice for repository and markdown file
+Practice for repository and readme file using markdown
 
 ## Introductions
 Hi there! My name is *Amanda*.
@@ -19,6 +19,6 @@ Three terms I've learned from this exercise are:
 
 Here's a photo that I took recently for my digital photography class.
 
-![apple](apple.png)
+![apple](IMG_5184.JPG)
 
 If you're looking to connect, check out my profile on [LinkedIn](https://www.linkedin.com/in/amandamknight/).
