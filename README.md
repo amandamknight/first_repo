@@ -17,7 +17,7 @@ Three terms I've learned from this exercise are:
 2. markdown
 3. readme file
 
-Here's a photo that I took recently for my digital photography class.
+Here's a photo that I took recently for my digital photography class. Changes.
 
 ![apple](IMG_5184.JPG)
 
